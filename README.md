@@ -33,7 +33,7 @@ Follow these instructions to set up and run the backend server.
 1. Start the backend server:
 
    node server.js
-   The server will start and listen on the specified port (default is 5000).
+   The server will start and listen on the specified port (default is 3001).
 
 2. The API endpoints are accessible at:
 
